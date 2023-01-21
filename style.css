@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+h1, h2, h3, p, a {
+    text-align: center;
+}
+div.container {
+    text-align: center;
+}
+.myList {
+    display: inline-block;
+    text-align: left;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+a {
+    display: block;
+}
+#clear {
+    list-style-type: none;
+}
